@@ -131,7 +131,7 @@
 <div class="hero mt-x-small" data-analytics={`{"position":"hero"}`}>
   <div class="hero__text">
     <h1 class="homeh1">
-      Always<br /> Ready to Betterify!!
+      Always ready <br />to Betterify!
     </h1>
     <p id="choose-project-observer-target" class="hero__intro-text text-large">
       Spin up fresh, automated dev environments<br />
@@ -175,7 +175,7 @@
   </div>
   <div class="hero__illustration">
     <img
-      src="/images/illustration-large.jpg"
+      src="https://source.unsplash.com/BlKBaiFdNgA/w=700"
       alt="Gitpod in a Nutshell"
       width="700"
       height="724"
